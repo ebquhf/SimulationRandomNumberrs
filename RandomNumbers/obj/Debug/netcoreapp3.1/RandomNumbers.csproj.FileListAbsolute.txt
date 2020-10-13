@@ -1,0 +1,13 @@
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.exe
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.deps.json
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.json
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.dev.json
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csprojAssemblyReference.cache
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfo.cs
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\kis_b\Models\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.genruntimeconfig.cache
